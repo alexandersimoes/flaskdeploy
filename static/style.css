@@ -1,0 +1,7 @@
+*, html {
+  font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+html, body {
+  margin: 40px auto;
+  width: 400px;
+}
